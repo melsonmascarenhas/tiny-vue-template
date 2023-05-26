@@ -1,7 +1,7 @@
 const app = Vue.createApp({
     data() {
         return {
-            message: "Template"
+            message: "Hello Vue!"
         }
     },
     methods: {
